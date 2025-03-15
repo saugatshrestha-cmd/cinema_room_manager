@@ -61,7 +61,7 @@ Current income: $10
 Total income: $360
 ```
 
-##💡 Pricing Logic
+## 💡 Pricing Logic
 -If the total number of seats ≤ 60, each ticket costs $10.
 -Otherwise:
   -Front half of the rows → $10 per ticket
