@@ -9,8 +9,6 @@ Cinema Room Manager is a Java console application that simulates a simple movie 
 - ✔ Check statistics (occupancy, revenue, etc.)
 - ✔ Handle input errors (out-of-bounds or already booked seats)
 
-This project is part of the JetBrains Academy (Hyperskill) Java track, focusing on console I/O, loops, and conditionals.
-
 ---
 
 ## 🛠 Features
