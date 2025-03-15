@@ -62,7 +62,7 @@ Total income: $360
 ```
 
 ## 💡 Pricing Logic
--If the total number of seats ≤ 60, each ticket costs $10.
--Otherwise:
-  -Front half of the rows → $10 per ticket
-  -Back half of the rows → $8 per ticket
+- If the total number of seats ≤ 60, each ticket costs $10.
+- Otherwise:
+  - Front half of the rows → $10 per ticket
+  - Back half of the rows → $8 per ticket
